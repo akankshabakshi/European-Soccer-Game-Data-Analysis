@@ -14,7 +14,17 @@ The files present in the european soccer game dataset are mentioned below:
 ![](https://github.com/akankshabakshi/European-Soccer-Game-Data-Analysis/blob/master/ball.jpg)
 
 Note: This data is also present on Kaggle
-Workflow: 
+
+# Workflow: 
+
 The workflow is mentioned below: 
-1. Basic analysis: To familiarise the tables columns and other related information 
-Link mentioned below: https://github.com/akankshabakshi/European-Soccer-Game-Data-Analysis/blob/master/soccer_game_basic_analysis.py
+
+# 1. Basic analysis: 
+To familiarise the tables columns and other related information 
+Link can be found here: https://github.com/akankshabakshi/European-Soccer-Game-Data-Analysis/blob/master/soccer_game_basic_analysis.py
+
+# 2. Analysis using table joins
+Link can be found here: 
+
+# 3. Identifying patterns or trends
+Link can be found here: 
